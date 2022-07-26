@@ -1,0 +1,25 @@
+[
+	{
+		"userId": "uid-Nhdkk2239dccjm39cmd02",
+		"name": "Rifky Manuel Satyana",
+		"email": "rifky.satyana08@gmail.com",
+		"userBooks": [
+			{
+				"id": "Sdc881jso10cn18.google",
+				"productTheme": "book",
+				"productDesc": "A book written by Google",
+				"metadata": {
+					"dateMade": "2010/27/Mar",
+					"name": "DevOps with Kubernetes",
+					"pages": "300"
+				}
+			}
+		]
+	},
+	{
+		"userId": "d664e608-6800-4f97-a5dd-37caaf96d43c",
+		"name": "",
+		"email": "",
+		"userBooks": null
+	}
+]

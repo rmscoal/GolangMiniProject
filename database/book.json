@@ -1,0 +1,42 @@
+[
+	{
+		"id": "Nxhgj783kks85m.google",
+		"productTheme": "book",
+		"productDesc": "A book written by Google",
+		"metadata": {
+			"dateMade": "2001/15/Jan",
+			"name": "Mobby Dick",
+			"pages": "345"
+		}
+	},
+	{
+		"id": "Jksna733b9dm100.google",
+		"productTheme": "book",
+		"productDesc": "A book written by Google",
+		"metadata": {
+			"dateMade": "2014/15/June",
+			"name": "How to train your Golang",
+			"pages": "155"
+		}
+	},
+	{
+		"id": "Sdc881jso10cn18.google",
+		"productTheme": "book",
+		"productDesc": "A book written by Google",
+		"metadata": {
+			"dateMade": "2010/27/Mar",
+			"name": "DevOps with Kubernetes",
+			"pages": "300"
+		}
+	},
+	{
+		"id": "Klsm174xxv16j99.google",
+		"productTheme": "book",
+		"productDesc": "A book written by Google",
+		"metadata": {
+			"dateMade": "2019/27/Mar",
+			"name": "Anthos",
+			"pages": "299"
+		}
+	}
+]
